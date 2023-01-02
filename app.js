@@ -29,7 +29,7 @@ class Engineer extends Person {
     this.job = job;
   }
   getMony() {
-    console.log("get money");
+    console.log("get money and come");
   }
 }
 const Muhammed = new Engineer("muhammed", "şelleh", 35);
